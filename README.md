@@ -45,8 +45,9 @@ pip install scikit-learn pandas numpy
 ```
 
 5. Set up the machine learning models:
-- Place `allotment_model_final.pkl` in the `models/` directory
-- Place `ordinal_encoder_final.pkl` in the `models/` directory
+- Download `ml_models.zip` from the [Releases section](https://github.com/gaidhaniparth/MHTCET_Predictor/releases/latest)
+- Extract the contents of the ZIP file into the `models/` directory
+- Ensure you have both `allotment_model_final.pkl` and `ordinal_encoder_final.pkl` in the `models/` directory
 
 ## Running the Project
 
